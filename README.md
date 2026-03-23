@@ -20,6 +20,16 @@ I am a **Junior Software Developer** moving into tech after completing an intens
 <br>
 <hr>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordhaych94/jordhaych94/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordhaych94/jordhaych94/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/jordhaych94/jordhaych94/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
+<br>
+<hr>
+
 🛠️ Tools & Tech
 
 <div align="center">

@@ -1,6 +1,6 @@
 # Hi there, I'm Jordan! 👋
 
-I am a **Junior Software Developer** moving into tech after completing an intensive 13-week industry bootcamp. I bring a strong background in hands-on, high-pressure roles, which taught me reliability, safety awareness, and effective teamwork—skills I now apply to building robust, full-stack software.
+I am a **Junior Software Developer** moving into tech after completing an intensive 13-week industry bootcamp. I bring a strong background in hands-on, high-pressure roles, which taught me reliability, safety awareness, and effective teamwork skills I now apply to building robust, full-stack software.
 
 🚀 About Me
 - 💻 I build full-stack applications focusing on **JavaScript, Node.js, and React**.

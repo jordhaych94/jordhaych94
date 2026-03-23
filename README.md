@@ -1,17 +1,23 @@
 # Hi there, I'm Jordan! 👋
 
-I am an aspiring **Software Developer** currently beginning my journey with an intensive coding bootcamp. I'm excited to transition into the tech sector and build tools that solve real-world problems.
+I am a **Junior Software Developer** moving into tech after completing an intensive 13-week industry bootcamp. I bring a strong background in hands-on, high-pressure roles, which taught me reliability, safety awareness, and effective teamwork—skills I now apply to building robust, full-stack software.
 
 🚀 About Me
-- 📖 I’m currently focused on mastering the **fundamentals of programming**.
-- 🌱 I am learning how to use **Git and GitHub** for version control.
-- 🐧 I use **Ubuntu Linux** as my primary development environment.
-- ⚡ Fun fact: I'm documenting my progress daily as I work toward becoming a full-stack engineer, and do my own projects on weekend!
+- 💻 I build full-stack applications focusing on **JavaScript, Node.js, and React**.
+- 🧪 I am passionate about writing stable, bug-free code using **Test Driven Development (TDD)**.
+- 🐧 My primary development environment is **VSCode on Ubuntu Linux**.
 
-🛠 Tools & Tech
-- **Currently Learning:** Git, Command Line (Terminal), Markdown
-- **Operating System:** Ubuntu
-- **Next Up:** HTML & CSS Foundations
+🛠️ Tools & Tech
+- **Languages:** JavaScript (Node.js & Browser)
+- **Front-end:** HTML5, CSS3, React, Phaser 3
+- **Back-end:** Node.js, Express, PostgreSQL
+- **Testing:** Jest, Supertest, TDD
+- **Tools & OS:** Git, GitHub, VSCode, Ubuntu Linux
 
- 📬 Let's Connect
-- [LinkedIn](https://uk.linkedin.com/in/jordan-harrison-8b889120b))
+📂 Featured Projects
+- **Forbidden Knowledge (Multiplayer RPG):** Engineered the front-end battle mechanics and UI for a real-time multiplayer game using JS and Phaser 3, synchronizing live server data for a smooth combat loop.
+- **NC News:** Developed a full-stack social news platform featuring a responsive React UI, a Node.js/Express API with MVC architecture, and secure data management using PostgreSQL.
+
+📫 Let's Connect
+- **Portfolio:** http://jordhaych94.github.io/my-portfolio
+- **Email:** Jordhaych94@gmail.com

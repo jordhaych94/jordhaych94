@@ -11,13 +11,12 @@ I am a **Junior Software Developer** moving into tech after completing an intens
 📂 Featured Projects
 - **Forbidden Knowledge (Multiplayer RPG):** Engineered the front-end battle mechanics and UI for a real-time multiplayer game using JS and Phaser 3, synchronizing live server data for a smooth combat loop.
 - **NC News:** Developed a full-stack social news platform featuring a responsive React UI, a Node.js/Express API with MVC architecture, and secure data management using PostgreSQL.
+  <br>
   <hr>
-
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=jordhaych94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhaych94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-<br>
 <hr>
 
 <div align="center">
@@ -27,7 +26,6 @@ I am a **Junior Software Developer** moving into tech after completing an intens
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/jordhaych94/jordhaych94/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
-<br>
 <hr>
 
 🛠️ Tools & Tech

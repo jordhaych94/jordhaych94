@@ -48,7 +48,7 @@ I am a **Junior Software Developer** moving into tech after completing an intens
 <hr>
 
 
-### 📫 Let's Connect
+#### 📫 Let's Connect
 <div align="left">
   <a href="https://jordhaych94.github.io/my-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
